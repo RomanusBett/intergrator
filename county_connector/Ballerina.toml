@@ -1,0 +1,9 @@
+[package]
+org = "jamiseon"
+name = "county_connector"
+version = "0.1.0"
+distribution = "2201.13.4"
+title = "county_connector"
+
+[build-options]
+sticky = true
