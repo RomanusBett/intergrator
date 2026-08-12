@@ -9,6 +9,7 @@ type AnalyzePayload record {|
     string text;
 |};
 
+
 type SentimentResult record {|
     Sentiment sentiment;
     float confidence;
